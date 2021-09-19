@@ -1,0 +1,56 @@
+*{
+    margin:0%;
+    padding:0%;
+    box-sizing: border-box;
+}
+
+body{
+background-color: #eee;
+}
+
+#header{
+    background-color: #99f;
+    display: flex;
+    justify-content: space-between;
+    padding: 1%;
+}
+
+#search-box{
+    padding:1%;
+    background-color: #9f9;
+}
+
+#search-card{
+    display: flex;
+    justify-content: space-between;
+}
+
+#Page-Title{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    color:white;
+}
+
+#name{
+    font-size: 20px;
+    color:white;
+    font-family: Roboto;
+}
+
+#post{
+    margin:2% 10%;
+    background-color: white;
+    padding:3%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#user{
+    font-size: 22px;
+    font-weight: 800;
+}
+
+#post-head{
+    font-size: 18px;
+    font-weight: 600;
+}
